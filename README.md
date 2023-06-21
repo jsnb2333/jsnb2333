@@ -1,19 +1,18 @@
-# pzxy
+### Hi there 👋
 
-## Project setup
-```
-npm install
-```
+<!--
+**Cecilxx/Cecilxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Here are some ideas to get you started:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Cecilxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=cecilxx&show_icons=true&theme=tokyonight)
